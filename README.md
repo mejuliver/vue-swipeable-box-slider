@@ -22,6 +22,7 @@ Vue.use(sliderbox);
 **props**
 
 csliderid = if provided, will be use instead, else a random id will be created
+
 sliderclass = custom classes for your slider
 
 
