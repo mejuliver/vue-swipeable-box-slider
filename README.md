@@ -7,7 +7,7 @@ Swipeable boxs slider Vuejs
 
 ## use via cli
 ```
-import sliderbox from 'vue-slider-box';
+import sliderbox from 'vue-swipeable-box-slider';
 
 Vue.use(sliderbox);
 ```
